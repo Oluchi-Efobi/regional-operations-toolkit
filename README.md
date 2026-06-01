@@ -1,4 +1,4 @@
-# EKOEXCEL Regional Operations Toolkit
+# Regional Operations Toolkit
 
 **A Python-based toolkit for optimizing regional operations logistics, supply chain management, and data-driven decision-making in education.**
 
